@@ -35,7 +35,7 @@ public class APXScanner {
                 "║  🔍 Features: Permissions | Leaks | WebView | SQLi | Crypto | Network | Storage         ║\n" +
                 "║  🛡️  Plus:     Root Detection | SSL Pinning | OWASP Mobile Top 10 | CWE Coverage        ║\n" +
                 "║  📊 Version: 3.0 PRO | Author: APX DZ Lab Security Team                                    ║\n" +
-                "║  🌐 GitHub: https://github.com/hacker1337itme/APXScanner                                    ║\n" +
+                "║  🌐 GitHub: https://github.com/rootdz1337/APXScanner                                   ║\n" +
                 "║                                                                                          ║\n" +
                 "╚══════════════════════════════════════════════════════════════════════════════════════════╝\n");
     }
